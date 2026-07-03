@@ -174,6 +174,11 @@ msgctxt "AdvancedSettings|"
 msgid "Indicate active download and upload using tray icon"
 msgstr "ट्रे आइकन का उपयोग करके सक्रिय डाउनलोड और अपलोड इंगित करें"
 
+#, qt-format
+msgctxt "AdvancedSettings|"
+msgid "Show \"%1\" button"
+msgstr ""
+
 msgctxt "AdvancedSettings|"
 msgid "Show built-in tags:"
 msgstr ""
@@ -1573,6 +1578,10 @@ msgstr "सभी की अनदेखी करें"
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
 msgstr "बीच में बंद करें"
+
+msgctxt "DenoDependencyManager|"
+msgid "a modern JavaScript runtime"
+msgstr ""
 
 #, qt-format
 msgctxt "DiskSpace|"
@@ -4030,6 +4039,10 @@ msgid "Failed to install add-on"
 msgstr "ऐड-ऑन स्थापित करने में विफल"
 
 msgctxt "PluginsPage|"
+msgid "Required software is missing"
+msgstr ""
+
+msgctxt "PluginsPage|"
 msgid "Warning!"
 msgstr "चेतावनी!"
 
@@ -4049,22 +4062,14 @@ msgctxt "PluginsPage|"
 msgid "Would you like to continue the installation?"
 msgstr "क्या आप स्थापना जारी रखना चाहेंगे?"
 
-msgctxt "PluginsPage|"
-msgid "The following required components are missing:"
-msgstr "निम्नलिखित आवश्यक घटक गायब हैं:"
-
 #, qt-format
 msgctxt "PluginsPage|"
-msgid "%1 is required."
-msgstr "%1 आवश्यक है।"
+msgid "%1 add-on requires the following software:"
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Would you like to install them?"
-msgstr "क्या आप उन्हें स्थापित करना चाहेंगे?"
-
-msgctxt "PluginsPage|"
-msgid "Would you like to install it?"
-msgstr "क्या आप इसे स्थापित करना चाहेंगे?"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "No updates found"
@@ -4073,6 +4078,10 @@ msgstr ""
 msgctxt "PluginsUpdateUiManager|"
 msgid "Failed to update add-on"
 msgstr "ऐड-ऑन अपडेट करने में विफल"
+
+msgctxt "PluginsUpdateUiManager|"
+msgid "Required software is missing"
+msgstr ""
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Warning!"
@@ -4098,25 +4107,12 @@ msgstr "क्या आप स्थापना जारी रखना च�
 
 #, qt-format
 msgctxt "PluginsUpdateUiManager|"
-msgid ""
-"New version of %1 add-on requires additional components:\n"
-"%2"
+msgid "New %1 add-on requires the following software:"
 msgstr ""
-"%1 ऐड-ऑन के नए संस्करण को अतिरिक्त घटकों की आवश्यकता है:\n"
-"%2"
-
-#, qt-format
-msgctxt "PluginsUpdateUiManager|"
-msgid "New version of %1 add-on requires %2."
-msgstr "%1 ऐड-ऑन के नए संस्करण के लिए %2 की आवश्यकता है।"
 
 msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install them?"
-msgstr "क्या आप उन्हें स्थापित करना चाहेंगे?"
-
-msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install it?"
-msgstr "क्या आप इसे स्थापित करना चाहेंगे?"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsViewItem|"
 msgid "Allow automatic updates"
@@ -4188,6 +4184,10 @@ msgstr "रद्द करें"
 
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
+msgstr ""
+
+msgctxt "PythonDependencyManager|"
+msgid "a programming language"
 msgstr ""
 
 msgctxt ""

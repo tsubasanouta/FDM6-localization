@@ -173,6 +173,11 @@ msgctxt "AdvancedSettings|"
 msgid "Indicate active download and upload using tray icon"
 msgstr "使用系統匣圖示顯示進行中的下載和上傳"
 
+#, qt-format
+msgctxt "AdvancedSettings|"
+msgid "Show \"%1\" button"
+msgstr ""
+
 msgctxt "AdvancedSettings|"
 msgid "Show built-in tags:"
 msgstr "顯示內建標籤:"
@@ -1564,6 +1569,10 @@ msgstr "全部忽略"
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
 msgstr "中止"
+
+msgctxt "DenoDependencyManager|"
+msgid "a modern JavaScript runtime"
+msgstr ""
 
 #, qt-format
 msgctxt "DiskSpace|"
@@ -3996,6 +4005,10 @@ msgid "Failed to install add-on"
 msgstr "無法安裝附加元件"
 
 msgctxt "PluginsPage|"
+msgid "Required software is missing"
+msgstr ""
+
+msgctxt "PluginsPage|"
 msgid "Warning!"
 msgstr "警告！"
 
@@ -4007,9 +4020,14 @@ msgctxt "PluginsPage|"
 msgid "Add-on requests dangerous permission:"
 msgstr "附加元件要求危險權限:"
 
+#, qt-format
 msgctxt "PluginsPage|"
-msgid "The following required components are missing:"
-msgstr "遺失以下要求的元件:"
+msgid "%1 add-on requires the following software:"
+msgstr ""
+
+msgctxt "PluginsPage|"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "No updates found"
@@ -4043,22 +4061,13 @@ msgctxt "PluginsPage|"
 msgid "Would you like to continue the installation?"
 msgstr "要繼續安裝嗎？"
 
-#, qt-format
-msgctxt "PluginsPage|"
-msgid "%1 is required."
-msgstr "%1 是必要的。"
-
-msgctxt "PluginsPage|"
-msgid "Would you like to install them?"
-msgstr "要安裝它們嗎？"
-
-msgctxt "PluginsPage|"
-msgid "Would you like to install it?"
-msgstr "要安裝它嗎？"
-
 msgctxt "PluginsUpdateUiManager|"
 msgid "Failed to update add-on"
 msgstr "無法更新附加元件"
+
+msgctxt "PluginsUpdateUiManager|"
+msgid "Required software is missing"
+msgstr ""
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Warning!"
@@ -4074,6 +4083,15 @@ msgstr "要繼續安裝嗎？"
 
 #, qt-format
 msgctxt "PluginsUpdateUiManager|"
+msgid "New %1 add-on requires the following software:"
+msgstr ""
+
+msgctxt "PluginsUpdateUiManager|"
+msgid "Install the required software now?"
+msgstr ""
+
+#, qt-format
+msgctxt "PluginsUpdateUiManager|"
 msgid "New version of %1 add-on requests dangerous permissions:"
 msgstr "新版本的 %1 附加元件要求危險權限:"
 
@@ -4081,28 +4099,6 @@ msgstr "新版本的 %1 附加元件要求危險權限:"
 msgctxt "PluginsUpdateUiManager|"
 msgid "New version of %1 add-on requests dangerous permission:"
 msgstr "新版本的 %1 附加元件要求危險權限:"
-
-#, qt-format
-msgctxt "PluginsUpdateUiManager|"
-msgid ""
-"New version of %1 add-on requires additional components:\n"
-"%2"
-msgstr ""
-"新版本的 %1 附加元件要求額外元件:\n"
-"%2"
-
-#, qt-format
-msgctxt "PluginsUpdateUiManager|"
-msgid "New version of %1 add-on requires %2."
-msgstr "新版本的 %1 附加元件要求 %2。"
-
-msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install them?"
-msgstr "要安裝它們嗎？"
-
-msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install it?"
-msgstr "要安裝它嗎？"
 
 msgctxt "PluginsViewItem|"
 msgid "Allow automatic updates"
@@ -4174,6 +4170,10 @@ msgstr "取消"
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
 msgstr "N/A"
+
+msgctxt "PythonDependencyManager|"
+msgid "a programming language"
+msgstr ""
 
 msgctxt ""
 "QGuiApplication|Translate this string to the string 'LTR' in left-to-right "

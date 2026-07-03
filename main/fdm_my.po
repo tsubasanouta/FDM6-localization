@@ -176,6 +176,11 @@ msgid "Indicate active download and upload using tray icon"
 msgstr ""
 "အပြားပုံ သင်္ကေတသုံးပြီး လုပ်နေသည် ဒေါင်းလုပ် နှင့် အပ်လုပ်တို့ကို ပြပါ"
 
+#, qt-format
+msgctxt "AdvancedSettings|"
+msgid "Show \"%1\" button"
+msgstr ""
+
 msgctxt "AdvancedSettings|"
 msgid "Show built-in tags:"
 msgstr "တပ်ဆင်ပြီး ပူးတွဲများကို ပြပါ၊"
@@ -1588,6 +1593,10 @@ msgstr "အားလုံးကို လျစ်လျူရှုပါ"
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
 msgstr "ထွက်ပါ"
+
+msgctxt "DenoDependencyManager|"
+msgid "a modern JavaScript runtime"
+msgstr ""
 
 #, qt-format
 msgctxt "DiskSpace|"
@@ -4053,6 +4062,10 @@ msgid "Failed to install add-on"
 msgstr "Add-on ထည့်သွင်းမှု မအောင်မြင်ပါ"
 
 msgctxt "PluginsPage|"
+msgid "Required software is missing"
+msgstr ""
+
+msgctxt "PluginsPage|"
 msgid "Warning!"
 msgstr "သတိပေးချက်။"
 
@@ -4072,22 +4085,14 @@ msgctxt "PluginsPage|"
 msgid "Would you like to continue the installation?"
 msgstr "ထည့်သွင်းမှုကို ဆက်လုပ်ချင်လား။"
 
-msgctxt "PluginsPage|"
-msgid "The following required components are missing:"
-msgstr "အောက်ပါ လိုအပ်သည့် အရာများ ပျောက်နေသည်၊"
-
 #, qt-format
 msgctxt "PluginsPage|"
-msgid "%1 is required."
-msgstr "%1 ကို လိုအပ်သည်"
+msgid "%1 add-on requires the following software:"
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Would you like to install them?"
-msgstr "၎င်းတို့ကို ထည့်သွင်းချင်လား။"
-
-msgctxt "PluginsPage|"
-msgid "Would you like to install it?"
-msgstr "၎င်းကို ထည့်သွင်းချင်လား။"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "No updates found"
@@ -4096,6 +4101,10 @@ msgstr "အသစ်များ ရှာမတွေ့ပါ"
 msgctxt "PluginsUpdateUiManager|"
 msgid "Failed to update add-on"
 msgstr "Add-on အဆင့်မြှင့်မှု မအောင်မြင်ပါ"
+
+msgctxt "PluginsUpdateUiManager|"
+msgid "Required software is missing"
+msgstr ""
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Warning!"
@@ -4122,25 +4131,12 @@ msgstr "ထည့်သွင်းမှုကို ဆက်လုပ်ခ�
 
 #, qt-format
 msgctxt "PluginsUpdateUiManager|"
-msgid ""
-"New version of %1 add-on requires additional components:\n"
-"%2"
+msgid "New %1 add-on requires the following software:"
 msgstr ""
-"ဗားရှင်းအသစ် %1 add-on က ထပ်တိုးအရာများ လိုအပ်သည်၊\n"
-"%2"
-
-#, qt-format
-msgctxt "PluginsUpdateUiManager|"
-msgid "New version of %1 add-on requires %2."
-msgstr "ဗားရှင်းအသစ် %1 add-on က %2 ကို လိုအပ်သည်။"
 
 msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install them?"
-msgstr "၎င်းတို့ကို ထည့်သွင်းချင်လား။"
-
-msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install it?"
-msgstr "၎င်းကို ထည့်သွင်းချင်လား။"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsViewItem|"
 msgid "Allow automatic updates"
@@ -4212,6 +4208,10 @@ msgstr "ပယ်ဖျက်"
 
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
+msgstr ""
+
+msgctxt "PythonDependencyManager|"
+msgid "a programming language"
 msgstr ""
 
 msgctxt ""

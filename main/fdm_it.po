@@ -174,6 +174,11 @@ msgctxt "AdvancedSettings|"
 msgid "Indicate active download and upload using tray icon"
 msgstr "Visualizza icona download/upload attivi nella barra applicazioni"
 
+#, qt-format
+msgctxt "AdvancedSettings|"
+msgid "Show \"%1\" button"
+msgstr ""
+
 msgctxt "AdvancedSettings|"
 msgid "Show built-in tags:"
 msgstr "Visualizza etichette integrate:"
@@ -1573,6 +1578,10 @@ msgstr "Ignora tutti"
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
 msgstr "Termina"
+
+msgctxt "DenoDependencyManager|"
+msgid "a modern JavaScript runtime"
+msgstr ""
 
 #, qt-format
 msgctxt "DiskSpace|"
@@ -4038,6 +4047,10 @@ msgid "Failed to install add-on"
 msgstr "Impossibile installare l'estensione"
 
 msgctxt "PluginsPage|"
+msgid "Required software is missing"
+msgstr ""
+
+msgctxt "PluginsPage|"
 msgid "Warning!"
 msgstr "Avviso!"
 
@@ -4057,22 +4070,14 @@ msgctxt "PluginsPage|"
 msgid "Would you like to continue the installation?"
 msgstr "Vuoi continuare l'installazione?"
 
-msgctxt "PluginsPage|"
-msgid "The following required components are missing:"
-msgstr "Mancano i seguenti componenti necessari:"
-
 #, qt-format
 msgctxt "PluginsPage|"
-msgid "%1 is required."
-msgstr "%1 richiesto."
+msgid "%1 add-on requires the following software:"
+msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Would you like to install them?"
-msgstr "Vuoi installarli?"
-
-msgctxt "PluginsPage|"
-msgid "Would you like to install it?"
-msgstr "Vuoi installarlo?"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "No updates found"
@@ -4081,6 +4086,10 @@ msgstr "Nessun aggiornamento trovato"
 msgctxt "PluginsUpdateUiManager|"
 msgid "Failed to update add-on"
 msgstr "Impossibile aggiornare l'estensione"
+
+msgctxt "PluginsUpdateUiManager|"
+msgid "Required software is missing"
+msgstr ""
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Warning!"
@@ -4110,24 +4119,12 @@ msgstr "Vuoi continuare l'installazione?"
 
 #, qt-format
 msgctxt "PluginsUpdateUiManager|"
-msgid ""
-"New version of %1 add-on requires additional components:\n"
-"%2"
+msgid "New %1 add-on requires the following software:"
 msgstr ""
-"La nuova versione dell'estensione %1 richiede componenti aggiuntivi: %2"
-
-#, qt-format
-msgctxt "PluginsUpdateUiManager|"
-msgid "New version of %1 add-on requires %2."
-msgstr "La nuova versione dell'estensione %1 richiede %2."
 
 msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install them?"
-msgstr "Vuoi installarli?"
-
-msgctxt "PluginsUpdateUiManager|"
-msgid "Would you like to install it?"
-msgstr "Vuoi installarlo?"
+msgid "Install the required software now?"
+msgstr ""
 
 msgctxt "PluginsViewItem|"
 msgid "Allow automatic updates"
@@ -4200,6 +4197,10 @@ msgstr "Annulla"
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
 msgstr "n/d"
+
+msgctxt "PythonDependencyManager|"
+msgid "a programming language"
+msgstr ""
 
 msgctxt ""
 "QGuiApplication|Translate this string to the string 'LTR' in left-to-right "
