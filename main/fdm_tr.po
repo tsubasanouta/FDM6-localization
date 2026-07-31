@@ -4251,6 +4251,11 @@ msgctxt "QObject|"
 msgid "Show main window"
 msgstr "Ana pencereyi göster"
 
+#, fuzzy
+msgctxt "QObject|"
+msgid "Add download"
+msgstr "İndirme ekle"
+
 #, qt-format
 msgctxt "QObject|"
 msgid "About %1"
@@ -5677,6 +5682,40 @@ msgstr "En fazla ek sorgulama bilgisi indirme sayısı:"
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
 msgstr "Hızı iyileştirmek için ek indirmeleri etkinleştir"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Pause slow downloads and let others go first"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Speed does not exceed"
+msgstr ""
+
+#. "Speed does not exceed N b/s for NN seconds"
+msgctxt "TrafficLimitsSettings|"
+msgid "for"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "3 minutes"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrafficLimitsSettings|"
+msgid "5 minutes"
+msgstr "5 dakika"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "10 minutes"
+msgstr ""
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"

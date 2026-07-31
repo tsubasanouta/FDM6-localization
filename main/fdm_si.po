@@ -4311,6 +4311,11 @@ msgctxt "QObject|"
 msgid "Show main window"
 msgstr "ප්රධාන කවුළුව පෙන්වන්න"
 
+#, fuzzy
+msgctxt "QObject|"
+msgid "Add download"
+msgstr "බාගත එකතු කරන්න"
+
 #, qt-format
 msgctxt "QObject|"
 msgid "About %1"
@@ -5743,6 +5748,40 @@ msgstr "අතිරේක විමසුම් තොරතුරු බාග
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
 msgstr "වේගය ප්රශස්ත කිරීමට අතිරේක බාගැනීම් සක්රීය කරන්න"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Pause slow downloads and let others go first"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Speed does not exceed"
+msgstr ""
+
+#. "Speed does not exceed N b/s for NN seconds"
+msgctxt "TrafficLimitsSettings|"
+msgid "for"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "3 minutes"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrafficLimitsSettings|"
+msgid "5 minutes"
+msgstr "මිනිත්තු 5"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "10 minutes"
+msgstr ""
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"

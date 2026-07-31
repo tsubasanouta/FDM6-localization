@@ -4294,6 +4294,11 @@ msgctxt "QObject|"
 msgid "Show main window"
 msgstr "Rodyti pagrindinį langą"
 
+#, fuzzy
+msgctxt "QObject|"
+msgid "Add download"
+msgstr "Pridėti atsisiuntimą"
+
 #, qt-format
 msgctxt "QObject|"
 msgid "About %1"
@@ -5731,6 +5736,40 @@ msgstr "Maksimalus papildomos užklausos informacijos atsisiuntimų skaičius:"
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
 msgstr "Įgalinkite papildomus atsisiuntimus, kad optimizuotumėte greitį"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Pause slow downloads and let others go first"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Speed does not exceed"
+msgstr ""
+
+#. "Speed does not exceed N b/s for NN seconds"
+msgctxt "TrafficLimitsSettings|"
+msgid "for"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "3 minutes"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrafficLimitsSettings|"
+msgid "5 minutes"
+msgstr "5 minutės"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "10 minutes"
+msgstr ""
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"

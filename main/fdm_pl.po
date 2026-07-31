@@ -4329,6 +4329,11 @@ msgctxt "QObject|"
 msgid "Show main window"
 msgstr "Pokaż okno główne"
 
+#, fuzzy
+msgctxt "QObject|"
+msgid "Add download"
+msgstr "Dodaj pobieranie"
+
 #, qt-format
 msgctxt "QObject|"
 msgid "About %1"
@@ -5759,6 +5764,40 @@ msgstr "Maksymalna liczba dodatkowych zapytań o pobraniach:"
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
 msgstr "Włącz dodatkowe pobieranie, aby zoptymalizować prędkość"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Pause slow downloads and let others go first"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "Speed does not exceed"
+msgstr ""
+
+#. "Speed does not exceed N b/s for NN seconds"
+msgctxt "TrafficLimitsSettings|"
+msgid "for"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "TrafficLimitsSettings|"
+msgid "3 minutes"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrafficLimitsSettings|"
+msgid "5 minutes"
+msgstr "5 minut"
+
+msgctxt "TrafficLimitsSettings|"
+msgid "10 minutes"
+msgstr ""
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"
